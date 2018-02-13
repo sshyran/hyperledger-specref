@@ -3,24 +3,48 @@
     "title": "The Interledger Protocol",
     "href": "https://interledger.org/rfcs/0003-interledger-protocol/draft-9.html",
     "status": "IL RFC",
-    "publisher": "Interledger Community"
+    "publisher": "Interledger Community",
+    "versions": {
+        "draft-9": {
+          "title": "The Interledger Protocol [Draft 9]",
+          "href": "https://interledger.org/rfcs/0003-interledger-protocol/draft-9.html",
+        }
+    }
   },
   "interledger-addresses": {
     "title": "Interledger Addresses",
     "href": "https://interledger.org/rfcs/0015-ilp-addresses/draft-2.html",
     "status": "IL RFC",
-    "publisher": "Interledger Community"
+    "publisher": "Interledger Community",
+    "versions": {
+        "draft-2": {
+          "title": "Interledger Addresses [Draft 2]",
+          "href": "https://interledger.org/rfcs/0003-interledger-protocol/draft-2.html",
+        }
+    }
   },
   "payment-pointers": {
     "title": "Payment Pointers",
     "href": "https://interledger.org/rfcs/0026-payment-pointers/draft-1.html",
     "status": "IL RFC",
-    "publisher": "Interledger Community"
+    "publisher": "Interledger Community",
+    "versions": {
+        "draft-1": {
+          "title": "Payment Pointers [Draft 1]",
+          "href": "https://interledger.org/rfcs/0003-interledger-protocol/draft-1.html"
+        }
+    }
   },
   "simple-payment-setup-protocol": {
     "title": "Simple Payment Setup Protocol",
     "href": "https://interledger.org/rfcs/0009-simple-payment-setup-protocol/draft-3.html",
     "status": "IL RFC",
-    "publisher": "Interledger Community"
+    "publisher": "Interledger Community",
+    "versions": {
+        "draft-3": {
+          "title": "Simple Payment Setup Protocol [Draft 3]",
+          "href": "https://interledger.org/rfcs/0003-interledger-protocol/draft-3.html"
+        }
+    }
   }
 }
